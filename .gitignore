@@ -1,2 +1,4 @@
 .idea/
 .ipynb_checkpoints/
+trained models/model_comparison/vectors.kv
+trained models/model_comparison/vectors.kv.vectors.npy
