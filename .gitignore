@@ -2,3 +2,7 @@
 .ipynb_checkpoints/
 trained models/model_comparison/vectors.kv
 trained models/model_comparison/vectors.kv.vectors.npy
+trained models/model_comparison/albert_model_15epochs.h5
+trained models/model_comparison/roberta_go_model.h5
+trained models/model_comparison/roberta_go_model_15epochs.h5
+trained models/model_comparison/plutchik_pretrained_model.h5
