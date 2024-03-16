@@ -6,3 +6,4 @@ trained models/model_comparison/albert_model_15epochs.h5
 trained models/model_comparison/roberta_go_model.h5
 trained models/model_comparison/roberta_go_model_15epochs.h5
 trained models/model_comparison/plutchik_pretrained_model.h5
+trained models/model_comparison/plutchik_pretrained_model_15epochs.h5
